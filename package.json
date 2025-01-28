@@ -1,5 +1,5 @@
 {
-  "name": "EG-CommandCenter",
+  "name": "eg-commandcenter",
   "version": "1.0.0",
   "description": "Cross Module Communication",
   "main": "EG-CommandCenter.js",
